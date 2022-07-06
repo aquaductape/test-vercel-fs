@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "pages/api/fetch-file/index.ts": {
+      "includeFiles": "files/email.html"
+    }
+  }
+}
